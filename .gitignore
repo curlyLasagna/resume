@@ -1,5 +1,3 @@
-*.pdf
-
 # Devenv
 .devenv*
 devenv.local.nix
